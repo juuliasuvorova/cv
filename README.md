@@ -28,6 +28,6 @@ I am an Applied Informatics graduate with experience in data management, analyti
 * Spring Boot
 * Git
 
----
+
 
 Thank you for visiting my repository!
