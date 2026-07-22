@@ -8,8 +8,8 @@ Here you can find the latest versions of my CV in both English and Russian.
 
 ##  Resume
 
-* 🇬🇧 **English:** [Yuliia_Suvorova_EN.pdf](Yuliia_Suvorova_EN.pdf)
-* 🇷🇺 **Russian:** [Yuliia_Suvorova_RU.pdf](Yuliia_Suvorova_RU.pdf)
+*  **English:** [Yuliia_Suvorova_EN.pdf](Yuliia_Suvorova_EN.pdf)
+*  **Russian:** [Yuliia_Suvorova_RU.pdf](Yuliia_Suvorova_RU.pdf)
 
 ##  About Me
 
